@@ -1,7 +1,7 @@
 # Anurudh Studio - Portfolio Website
 
 Plain HTML + CSS + JavaScript. No framework and no build step.
-Live link (after deploy): https://anurudhstudio.github.io/portfilo/
+Live link (after deploy): https://anurudhstudio.github.io/portfolio/
 
 ## Folder structure
 
